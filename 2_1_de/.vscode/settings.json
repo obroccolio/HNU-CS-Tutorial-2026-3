@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python3 plot_cache_analysis\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
